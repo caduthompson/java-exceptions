@@ -1,2 +1,2 @@
-# java-exceptions
-Java - Training Exceptions
+# Java Exceptions
+Training Exceptions
